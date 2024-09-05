@@ -1,0 +1,22 @@
+SHA1: 3C:FE:68:C0:A2:1A:AB:C1:0E:59:2F:97:14:10:34:46:F7:51:1D:0A
+SHA-256: 28:2E:97:66:85:66:BF:AD:28:DC:09:6B:9F:B5:24:25:30:6A:B3:39:3D:03:06:0F:43:B8:D7:44:B8:47:18:C6
+validity: wed, 22/5/2052
+mygithub22!
+==============================================================================
+
+      <View>
+      <Text style={{
+       fontSize: 15,
+       fontFamily: 'sans-serif-medium',
+       fontWeight: 'bold',
+      }}
+       >Would want to learn something today?</Text>
+       </View>
+
+
+==============================================================================
+
+existing repo push 
+git remote add origin https://github.com/queenofcat/MyNanoria.git
+git branch -M main
+git push -u origin main
